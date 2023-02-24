@@ -1,7 +1,7 @@
 # RudderStack
 ## Assignment for interview
 
-![alt text](https://drive.google.com/uc?export=view&id=1tpRJQ1nVTGhqKS5XsUxsHQAdH0l0rrM
+![alt text](https://drive.google.com/uc?export=view&id=1tpRJQ1nVTGhqKS5XsUxsHQAdH0l0rrM0)
 
 ## Admin
 Admin can add the source templates to DB through the swagger UI provided 
