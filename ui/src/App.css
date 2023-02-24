@@ -1,0 +1,95 @@
+.App {
+    text-align: center;
+}
+
+.check-box-field {
+    width: 30px;
+    height: 19px;
+    margin-left: 0px;
+}
+
+.label {
+    font-size: 18px;
+}
+
+.input-field {
+    width: 200px;
+}
+
+.select-box {
+    width: 208px;
+    height: 24px;
+}
+
+.field {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    border-block: 7px;
+    border-style: ridge;
+    margin: auto;
+    width: 600px;
+    padding-bottom: 10px;
+    background-color: antiquewhite;
+}
+
+.submit-button {
+    background-color: #282c34;
+    color: white;
+    padding: 8px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.check-box-label {
+    width: 200px;
+    float: left;
+}
+
+.label-div {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    overflow-wrap: anywhere;
+}
+
+.content-div {
+    width: 300px;
+    display: flex;
+}
+
+.source-drop-down {
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+.form-text {
+    padding-left: 23px;
+}
+
+.App-header {
+    background-color: #282c34;
+    height: 60px;;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
